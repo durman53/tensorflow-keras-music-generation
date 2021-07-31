@@ -10,7 +10,7 @@ Midi(Musical Instrument Digital Interface) keeps data of music - this is notes, 
 <h2>How to run:</h2>
 Project requirements: tensorflow>2.0, numpy, mido.
 You can try generate music with running generate.py script.
-Try to train net with rinning train.py script.
+Try to train net with running train.py script.
 
 <h2>Model structure:</h2>
 ______________________________________________________________________________<br>
